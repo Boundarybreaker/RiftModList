@@ -1,0 +1,10 @@
+{
+  "id": "riftmodlist",
+  "name": "Rift Mod List",
+  "authors": [
+    "gbui"
+  ],
+  "listeners": [
+    "io.github.gbui.riftmodlist.RiftModList"
+  ]
+}
